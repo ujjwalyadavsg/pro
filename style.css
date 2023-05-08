@@ -543,6 +543,16 @@ body{
     font-size: small;
     
    }
+   #goal{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+   }
+   #goal2{
+  padding-left: 15px;
+    margin-top: 10px;
+   }
+
  }
 
  #goal{
